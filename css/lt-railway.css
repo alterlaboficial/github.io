@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'LT-Railway';
+  src: url('../fonts/LGRailway/LTRailway-Regular.otf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
